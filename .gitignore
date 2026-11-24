@@ -1,0 +1,8 @@
+work/
+__pycache__/
+*.pyc
+data/
+DECISIONS.md
+*.pdf
+results/
+.idea/*
